@@ -1,3 +1,6 @@
 [submodule "ft_gnl"]
 	path = ft_gnl
 	url = git@github.com:brenohildebrand/ft_gnl.git
+[submodule "ft_libft"]
+	path = ft_libft
+	url = git@github.com:brenohildebrand/ft_libft.git
