@@ -1,0 +1,3 @@
+[submodule "ft_gnl"]
+	path = ft_gnl
+	url = git@github.com:brenohildebrand/ft_gnl.git
