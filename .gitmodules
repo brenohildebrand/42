@@ -7,3 +7,6 @@
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:brenohildebrand/ft_printf.git
+[submodule "ft_fdf"]
+	path = ft_fdf
+	url = https://github.com/brenohildebrand/ft_fdf
